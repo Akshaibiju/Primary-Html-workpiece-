@@ -20,3 +20,5 @@ learn from basics stop copying and start understanting how it work . the IT worl
 # Support
 
 please tell me what things i can do to improve , i know this is not perfect. i need suggesion from knowledgeable people. 
+
+![web_1](https://user-images.githubusercontent.com/92768719/173086794-0b94a490-9dee-4cbc-aaf2-0cfffb14ebbe.png)
